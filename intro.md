@@ -181,5 +181,3 @@ As we continue to grow and learn together, Lab3310 remains grateful for the cont
 These visionary individuals have played a pivotal role in creating a community that thrives on knowledge sharing, mentorship, and the pursuit of excellence. Their dedication to Lab3310's growth and their continuous contributions enrich the experiences of both junior and senior members alike.
 
 
-
-For more details and ongoing updates, visit our official [Slack channel](#) or connect with other members.
