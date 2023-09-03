@@ -19,10 +19,6 @@ Welcome to Lab3310, an open community dedicated to fostering collaboration, know
 
 - Lab3310 functions through ongoing projects, many of which include regular bi-weekly or weekly catch-up meetings.
 - Some projects are not open to juniors due to their complexity and requirement for advanced skills.
-- Weekly activities include a Wednesday night (HK time 21:30) LeetCode session, essential for industry entry and skill enhancement.
-- Biweekly meetings on Tuesday (HK time 22:00) focus on strategy ideas and initiatives, providing a platform for trading insights and experience sharing.
-- Another biweekly session on Thursday (HK time 22:00) involves a developing side project that welcomes junior members to learn and experience Python by conducting an official backtesting engine.
-- The backtesting project is led by one senior member and utilizes vectorbt, a renowned open-source backtesting package.
 
 ## Meeting Schedule and Topics
 
