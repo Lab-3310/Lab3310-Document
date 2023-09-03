@@ -75,7 +75,9 @@ Feel free to contact any of these friendly junior members through Slack:
 
 These junior members are here to assist you, answer questions, and share their experiences. Don't hesitate to reach out to them if you have any inquiries or simply want to connect with fellow juniors in the community.
 
-Remember, Lab3310 is all about collaboration and growth, and our junior members are an essential part of that journey. Feel free to ask questions, seek advice, and engage with your peers to make the most of your experience here!## Acknowledgments
+Remember, Lab3310 is all about collaboration and growth, and our junior members are an essential part of that journey. Feel free to ask questions, seek advice, and engage with your peers to make the most of your experience here!
+
+## Acknowledgments
 
 Lab3310 owes its success and vibrant community to the dedication and expertise of its co-founders and senior members. 
 Their extensive knowledge, experience, and commitment have been instrumental in shaping the community's growth and fostering a culture of learning and collaboration.
