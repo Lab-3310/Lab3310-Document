@@ -31,7 +31,7 @@ If you're interested in joining any of these sessions, please feel free to conta
 - **Time:** HK Time 21:30
 - **Topic:** LeetCode coding practice session
 - **Purpose:** Enhance coding skills essential for the industry and foster collaborative learning.
-- **Contact:**  **Will** via `Slack` or by emailing at `drizzle60902@gmail.com`
+- **Contact:**  **Will** via `Slack` or by emailing at `lab3310.will@gmail.com`
 
 ### Strategy Idea/Initiative Meetings
 
@@ -47,7 +47,7 @@ If you're interested in joining any of these sessions, please feel free to conta
 - **Time:** HK Time 22:00
 - **Topic:** Official backtesting engine development using Python, led by a senior member
 - **Purpose:** Hands-on learning experience for juniors and collaboration on a practical project.
-- **Contact:**  **Will** via `Slack`
+- **Contact:**  **Will** via `Slack` or by emailing at `lab3310.will@gmail.com`
 
 (This section will update when new project initiate!)
 
