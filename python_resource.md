@@ -21,7 +21,11 @@ While the video is not a beginner's guide to Python, it offers a unique way to l
 
 ### A Word of Encouragement
 
-If you're tempted to read countless books or resources before you start coding, remember that the best way to learn is to start coding right away. Don't be afraid to make mistakes or encounter challenges; that's all part of the learning process.
+If you're tempted to read countless books or resources before you start coding, remember that ***the best way to learn is to start coding right away***. Open you Vscode/Jupyter Notebook/... find a project and start design. 
+
+If you are looking a book or video teching you from the start of what is float, int? Then I'm afraid that is not an efficient way to learn code.
+
+Don't be afraid to make mistakes or encounter challenges; that's all part of the learning process.
 
 By the time you complete this video tutorial, you'll have laid a solid foundation for understanding the basics of Python and its application in quant trading.
 
@@ -46,3 +50,12 @@ By watching this video, you'll gain insights into how trading bots can be develo
 Remember that learning through practical examples like this video can be a valuable way to enhance your understanding of coding for quantitative finance in the crypto space. Feel free to experiment with the concepts presented and adapt them to your own trading strategies.
 
 Enjoy the learning process and the opportunities that coding and automation can bring to your crypto trading endeavors!
+
+
+
+### Some video that doing a project 
+
+
+- **Video Link:** [How To Build a Cryptocurrency Live Trading Bot with Python](https://youtu.be/nQkaJ207xYI?si=tQEdxHbIocmB-LYM)
+
+- **Video Link:** [How To Build a SIMPLE Cryptocurrency LIVE Trading Bot with Python](https://youtu.be/pveO4gwJ3_Y?si=PHWKQGq0pZXPTSzi)
