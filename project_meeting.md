@@ -32,12 +32,13 @@ If you're interested in joining any of these sessions, please feel free to conta
 - **Purpose:** Hands-on learning experience for juniors and collaboration on a quant research
 - **Contact:**  **Elijah** via `Slack` or by emailing at `elijah555241@gmail.com`
 
-#### Junior Developer - Side Project Workshop (vectorbt-research)
+#### Junior Developer - Systenatic Backtest Engine Develop SHERPA
 
 - **Frequency:** Biweekly on Thursday
 - **Time:** HK Time 22:00
 - **Topic:** Backtesting engine development side project based on package vectorbt using Python
 - **Purpose:** Hands-on learning experience for juniors and collaboration on a practical project
+- **Link:** This is a open-sources side-project: [https://github.com/Lab-3310/Systematic-Sherpa.git]
 - **Contact:**  **Will** via `Slack` or by emailing at `lab3310.will@gmail.com`
 
 #### Lab3310 Support
