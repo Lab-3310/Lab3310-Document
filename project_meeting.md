@@ -26,12 +26,19 @@ If you're interested in joining any of these sessions, please feel free to conta
 
 #### Quant Research - Alpha Research
 
-- **Frequency:** Weekly Monday/Thursday
+- **Frequency:** Weekly Monday
 - **Time:** HK Time 23:00
 - **Topic:** Quant research based on factor analysis using fundamental, price, volume, and other financial data
 - **Purpose:** Hands-on learning experience for juniors and collaboration on a quant research
 - **Contact:**  **Elijah** via `Slack` or by emailing at `elijah555241@gmail.com`
 
+#### Quant Research - Alpha Research (Colab with TMBA Alpha Team)
+
+- **Frequency:** Weekly Saturday
+- **Time:** HK Time 21:00
+- **Topic:** Quant research based on factor analysis using fundamental, price, volume, and other financial data
+- **Purpose:** Hands-on learning experience for juniors and collaboration on a quant research
+- **Contact:**  **Elijah** via `Slack` or by emailing at `elijah555241@gmail.com`
 #### Junior Developer - Systenatic Backtest Engine Develop SHERPA
 
 - **Frequency:** Biweekly on Thursday
